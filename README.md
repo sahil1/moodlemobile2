@@ -2,6 +2,8 @@ edurun
 
 ionic cordova resources ios
 
+ionic cordova resources
+
 cordova plugin save
 cordova platform rm ios
 cordova platform add ios

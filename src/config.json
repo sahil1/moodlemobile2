@@ -1,6 +1,6 @@
 {
     "app_id": "com.edurun.edurunmobile",
-    "appname": "Hi Mobile",
+    "appname": "EduRun Mobile",
     "desktopappname": "EduRun Desktop",
     "versioncode": 3620,
     "versionname": "3.6.2",
@@ -55,7 +55,7 @@
     "wsextservice": "local_mobile",
     "demo_sites": "",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https:\/\/demo.edurun.tech/lms",
+    "siteurl": "https:\/\/web.edurun.tech/lms",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
