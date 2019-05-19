@@ -1,9 +1,9 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
-    "versioncode": 3610,
-    "versionname": "3.6.1",
+    "app_id": "com.edurun.edurunmobile",
+    "appname": "Hi Mobile",
+    "desktopappname": "EduRun Desktop",
+    "versioncode": 3620,
+    "versionname": "3.6.2",
     "cache_expiration_time": 300000,
     "default_lang": "en",
     "languages": {
@@ -53,20 +53,9 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    "demo_sites": "",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https:\/\/demo.edurun.tech/lms",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,

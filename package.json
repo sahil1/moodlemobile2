@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "edurunmobile",
   "version": "3.6.1",
-  "description": "The official app for Moodle.",
+  "description": "EduRun Mobile App",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "EduRun Tech",
+    "email": "eduruntech@gmail.com"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
@@ -79,10 +79,9 @@
     "@types/promise.prototype.finally": "2.0.2",
     "chart.js": "2.7.2",
     "com-darryncampbell-cordova-plugin-intent": "1.1.1",
-    "cordova-android": "7.1.2",
     "cordova-android-support-gradle-release": "2.0.1",
     "cordova-clipboard": "1.2.1",
-    "cordova-ios": "4.5.5",
+    "cordova-ios": "^4.5.5",
     "cordova-plugin-badge": "0.8.8",
     "cordova-plugin-camera": "4.0.3",
     "cordova-plugin-customurlscheme": "4.3.0",
@@ -105,6 +104,7 @@
     "cordova-support-google-services": "1.2.1",
     "es6-promise-plugin": "4.2.2",
     "font-awesome": "4.7.0",
+    "ionic": "^4.12.0",
     "ionic-angular": "3.9.3",
     "ionicons": "3.0.0",
     "jszip": "3.1.5",
@@ -139,7 +139,6 @@
   },
   "cordova": {
     "platforms": [
-      "android",
       "ios"
     ],
     "plugins": {
